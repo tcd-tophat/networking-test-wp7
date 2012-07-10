@@ -1,0 +1,5 @@
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Tophat Client Test\Tophat Client Test\bin\Debug\Tophat Client Test.exe
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Tophat Client Test\Tophat Client Test\bin\Debug\Tophat Client Test.pdb
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Tophat Client Test\Tophat Client Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Tophat Client Test\Tophat Client Test\obj\x86\Debug\Tophat Client Test.exe
+C:\Users\Eoin\Documents\Visual Studio 2010\Projects\Tophat Client Test\Tophat Client Test\obj\x86\Debug\Tophat Client Test.pdb
